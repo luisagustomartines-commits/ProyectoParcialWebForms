@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>7.3</LangVersion>
+    <RootNamespace>ProyectoParcialWebForms.Negocio</RootNamespace>
+    <AssemblyName>ProyectoParcialWebForms.Negocio</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProyectoParcialWebForms.Datos\ProyectoParcialWebForms.Datos.csproj" />
+    <ProjectReference Include="..\ProyectoParcialWebForms.Entidades\ProyectoParcialWebForms.Entidades.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+
+# Compilación
+[Bb]in/
+[Oo]bj/
+
+# Paquetes NuGet (Visual Studio los restaura solo)
+packages/
+
+# Otros
+*.log
+Thumbs.db

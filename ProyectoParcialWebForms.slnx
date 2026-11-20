@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ProyectoParcialWebForms/ProyectoParcialWebForms.csproj" Id="89c02c54-4a4e-4c90-86c6-31537a91a033" />
+  <Project Path="ProyectoParcialWebForms.Entidades/ProyectoParcialWebForms.Entidades.csproj" />
+  <Project Path="ProyectoParcialWebForms.Datos/ProyectoParcialWebForms.Datos.csproj" />
+  <Project Path="ProyectoParcialWebForms.Negocio/ProyectoParcialWebForms.Negocio.csproj" />
+</Solution>

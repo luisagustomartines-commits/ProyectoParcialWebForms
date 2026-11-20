@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>7.3</LangVersion>
+    <RootNamespace>ProyectoParcialWebForms.Entidades</RootNamespace>
+    <AssemblyName>ProyectoParcialWebForms.Entidades</AssemblyName>
+  </PropertyGroup>
+</Project>
